@@ -10,5 +10,11 @@ var thirdName;//Not used in modern JS ..
 //string uses "" or '' or `` , variables and number do not need these ..
 
 
+//What are fnctions ?
+// reusable block of code , organizes our code , mini program , builtin or custom...
+
+function name(argument){code}
+// to call function , write its name followed by ()
+
 
 
